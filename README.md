@@ -52,7 +52,7 @@ Neste projeto, busquei responder a diversas perguntas sobre o catálogo. Abaixo 
 #### 6. Distribuição do Número de Temporadas das Séries
 * **Pergunta:** A maioria das séries são longas ou curtas?
 * **Insight:** A esmagadora maioria das séries possui apenas 1 temporada, indicando uma alta rotatividade de conteúdo ou um foco em minisséries.
-    * *![Gráfico da Distribuição de Temporadas](image/distribuicao_do_numero_de_temporadas_das_series.png)*
+    * ![Gráfico da Distribuição de Temporadas](image/distribuicao_do_numero_de_temporadas_das_series.png)
 
 ---
 ---
