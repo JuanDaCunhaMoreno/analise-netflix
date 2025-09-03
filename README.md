@@ -32,7 +32,7 @@ Neste projeto, busquei responder a diversas perguntas sobre o catálogo. Abaixo 
 #### 2. Top 10 Países Produtores de Conteúdo
 * **Pergunta:** Quais países mais produzem conteúdo para a plataforma?
 * **Insight:** Os Estados Unidos lideram com folga, seguidos por Índia e Reino Unido, demonstrando a diversidade e o alcance global do conteúdo.
-    * ![Gráfico dos Top 10 Países de Produtores de Conteúdo na Netflix ](top10_paises_produtores_conteudo.png)
+    * ![Gráfico dos Top 10 Países de Produtores de Conteúdo na Netflix](top10_paises_produtores_conteudo.png)
 
 #### 3. Evolução dos Lançamentos ao Longo dos Anos
 * **Pergunta:** Como o volume de lançamentos de títulos presentes no catálogo evoluiu com o tempo?
@@ -42,12 +42,12 @@ Neste projeto, busquei responder a diversas perguntas sobre o catálogo. Abaixo 
 #### 4. Gêneros Mais Comuns
 * **Pergunta:** Quais são os gêneros mais populares na plataforma?
 * **Insight:** "International Movies", "Dramas" e "Comedies" dominam o topo da lista, mostrando uma preferência clara por esses formatos.
-    * ![Gráfico dos 15 Gêneros mais Comuns ](15_generos_mais_comuns.png)
+    * ![Gráfico dos 15 Gêneros mais Comuns](15_generos_mais_comuns.png)
 
 #### 5. Distribuição da Duração dos Filmes
 * **Pergunta:** Qual é a duração mais comum para os filmes?
 * **Insight:** O histograma revela uma forte concentração de filmes com duração entre 90 e 120 minutos, o que parece ser um padrão na indústria.
-    * ![Gráfico da Distribuição da Duração dos Filmes ](Distribuicao_da_duracao_filme.png)
+    * ![Gráfico da Distribuição da Duração dos Filmes](Distribuicao_da_duracao_filme.png)
 
 #### 6. Distribuição do Número de Temporadas das Séries
 * **Pergunta:** A maioria das séries são longas ou curtas?
